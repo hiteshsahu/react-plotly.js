@@ -10,6 +10,8 @@
 
 👉 [Demo source code](https://github.com/plotly/react-plotly.js-demo-app)
 
+👉 [CodeSandbox All plot type demo]( https://codesandbox.io/s/q7jmjyplvq)
+
 ---
 
 ## Contents
